@@ -6,6 +6,10 @@ Notely is a simple, modern notes app built with React. It helps you organize you
 
 🌐 **Live Demo:** [Open Notely](https://melvin-12143031.github.io/Notely/)
 
+## 🖥️ Preview
+
+![Notely App Screenshot](./public/screenshot.png)
+
 ## ✨ Features
 
 * **Create Notes** — Write and save new notes.
