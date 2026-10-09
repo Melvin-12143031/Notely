@@ -1120,3 +1120,30 @@ select:focus-visible {
     transition-duration: 0.01ms !important;
   }
 }
+
+/* Dialog size improvements */
+.dialog {
+  max-width: 560px;
+  max-height: calc(100vh - 32px);
+  padding: 24px;
+}
+
+.dialog > h2 {
+  font-size: 22px;
+}
+
+.dialog .form-heading h2 {
+  font-size: 18px;
+}
+
+.dialog .note-form textarea {
+  min-height: 130px;
+}
+
+/* Keep dialogs comfortable on smaller screens */
+@media (max-width: 700px) {
+  .dialog {
+    max-height: calc(100vh - 32px);
+    padding: 20px;
+  }
+}
