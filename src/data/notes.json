@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "React Practice",
+    "content": "Learn useReducer and Context API",
+    "pinned": false,
+    "category": "React"
+  },
+  {
+    "id": 2,
+    "title": "School",
+    "content": "Finish science writing article",
+    "pinned": false,
+    "category": "School"
+  },
+  {
+    "id": 3,
+    "title": "Ideas",
+    "content": "Build a portfolio website",
+    "pinned": false,
+    "category": "Ideas"
+  }
+]
